@@ -1,6 +1,10 @@
 # 💫 About Me:
 Hello! I'm **Suhaim Anwar**, a dedicated MERN Stack Developer with a passion for crafting intuitive and scalable web applications. <br>  
-With experience in building 2+ full-stack applications and deploying 10+ projects online, I have a proven track record of delivering impactful, user-friendly, and performance-driven solutions. <br><br>
+With experience in building 2+ full-stack applications and deploying 10+ projects online, I have a proven track record of delivering impactful, user-friendly, and performance-driven solutions. <br>
+<br>
+[Visit my Portfolio](https://suhaimanwar.vercel.app/)
+<br><br>
+
 
 🔭 **Current Focus:** Enhancing expertise in cloud deployments and exploring serverless architectures.<br>
 🌱 **Learning:** Advanced DevOps tools and system design principles.<br>
@@ -51,6 +55,3 @@ With experience in building 2+ full-stack applications and deploying 10+ project
 ![](https://github-readme-streak-stats.herokuapp.com/?user=suhaimanwar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=suhaimanwar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-
-### Proudly created with GPRM ( https://gprm.itsvg.in )
