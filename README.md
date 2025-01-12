@@ -6,8 +6,8 @@ With experience in building 2+ full-stack applications and deploying 10+ project
 <br><br>
 
 
-🔭 **Current Focus:** Enhancing expertise in cloud deployments and exploring serverless architectures.<br>
-🌱 **Learning:** Advanced DevOps tools and system design principles.<br>
+🔭 **Current Focus:** Building scalable full-stack applications using the MERN stack and integrating advanced features like real-time updates and microservices.<br>
+🌱 **Learning:** Optimizing backend performance, exploring GraphQL, and mastering advanced system design for full-stack applications.<br>
 📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/suhaimanwar/) | [Portfolio](https://suhaimanwar.vercel.app/)<br><br>
 
 ### Key Highlights:
