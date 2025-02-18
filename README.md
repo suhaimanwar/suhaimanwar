@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hello! I'm **Suhaim Anwar**, a dedicated MERN Stack Developer with a passion for crafting intuitive and scalable web applications. <br>  
-With experience in building 2+ full-stack applications and deploying 10+ projects online, I have a proven track record of delivering impactful, user-friendly, and performance-driven solutions. <br>
+With experience in building 3+ full-stack applications and deploying 10+ projects online, I have a proven track record of delivering impactful, user-friendly, and performance-driven solutions. <br>
 <br>
 [Visit my Portfolio](https://suhaimanwar.vercel.app/)
 <br><br>
