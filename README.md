@@ -17,6 +17,6 @@ I am currently building new apps, exploring other technologies, and grinding Lee
 
 ## Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,tailwind,express,mongodb,prisma,git,github,vercel,figma,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,threejs,tailwind,express,mongodb,prisma,git,github,vercel,figma,postman)](https://skillicons.dev)
 
 
