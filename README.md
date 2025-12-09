@@ -22,7 +22,9 @@ With experience in building 3+ full-stack applications and deploying 10+ project
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+## 🌐 My Stack:
+[![My Stack](https://skillicons.dev/icons?i=nextjs,react,express,nodejs,mongodb,firebase,prisma,threejs,html,css,js)](https://skillicons.dev)
 ---
 
 ## 📊 GitHub Stats:
