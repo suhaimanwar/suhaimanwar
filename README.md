@@ -1,3 +1,4 @@
+Hi, I'm
 # Suhaim Anwar | [Portfolio](https://suhaimanwar.vercel.app/)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=30&pause=1000&color=F7F7F7&width=435&lines=MERN+Stack+Developer;Creating+Web+Experiences)](https://git.io/typing-svg)
 
@@ -5,11 +6,6 @@
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-Visit-informational?style=flat&logo=vercel&logoColor=white&color=000000)](https://suhaimanwar.vercel.app/)
 
 <br>
-
-Hi, I'm **Suhaim Anwar**.
-
-I'm a MERN Stack Developer.
-
 I have built multiple full stack apps and deployed 10+ projects used across many countries.
 
 I have created a number of projects, including :
