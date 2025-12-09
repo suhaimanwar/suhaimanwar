@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=30&pause=1000&color=F70000&width=435&lines=Suhaim+Anwar)](https://git.io/typing-svg)
+[![Typing SVG](font=&size=30&pause=1000&color=F70000&width=435&lines=Suhaim+Anwar)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=30&pause=1000&color=F70000&width=435&lines=Suhaim+Anwar;MERN+Stack+Developer;Creating+Web+Experiences)](https://git.io/typing-svg)
 
