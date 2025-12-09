@@ -17,7 +17,7 @@ I am currently building new apps, exploring other technologies, and grinding Lee
 
 ## Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,tailwind,express,mongodb,mysql,postgres,prisma,redux,git,github,vercel,figma,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,tailwind,express,mongodb,prisma,git,github,vercel,figma,postman)](https://skillicons.dev)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=suhaimanwar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
