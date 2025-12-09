@@ -1,7 +1,6 @@
 
 # Suhaim Anwar | [Portfolio](https://suhaimanwar.vercel.app/)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=30&pause=1000&color=F70000&width=435&lines=MERN+Stack+Developer;Creating+Web+Experiences)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=30&pause=1000&color=F7F7F7&width=435&lines=MERN+Stack+Developer;Creating+Web+Experiences)](https://git.io/typing-svg)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/suhaimanwar/)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-Visit-informational?style=flat&logo=vercel&logoColor=white&color=000000)](https://suhaimanwar.vercel.app/)
