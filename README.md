@@ -9,7 +9,7 @@
 I have built multiple full stack apps and deployed 10+ projects used across many countries.
 
 I have created a number of projects, including :
-- **Image Adjuster** – an online image editing tool used in 30+ countries
+- **Image Adjuster** - an online image editing tool used in 30+ countries
 - **Multiple full stack apps** deployed for real users
 - **Client websites** delivered end to end with modern stacks
 
@@ -19,8 +19,4 @@ I am currently building new apps, exploring other technologies, and grinding Lee
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,tailwind,express,mongodb,prisma,git,github,vercel,figma,postman)](https://skillicons.dev)
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=suhaimanwar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=suhaimanwar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=suhaimanwar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
