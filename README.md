@@ -1,4 +1,4 @@
-Hi, I'm
+
 # Suhaim Anwar | [Portfolio](https://suhaimanwar.vercel.app/)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=30&pause=1000&color=F7F7F7&width=435&lines=MERN+Stack+Developer;Creating+Web+Experiences)](https://git.io/typing-svg)
 
@@ -18,7 +18,6 @@ I am currently building new apps, exploring other technologies, and grinding Lee
 ## Languages and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,tailwind,express,mongodb,mysql,postgres,prisma,redux,git,github,vercel,figma,postman)](https://skillicons.dev)
-
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=suhaimanwar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
