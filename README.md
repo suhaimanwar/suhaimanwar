@@ -10,7 +10,7 @@ I build production ready full stack applications and deliver seamless user exper
 My work spans real world systems, high quality client projects, and tools used across multiple countries.
 
 I have created and shipped impactful projects, including:
-- **Image Adjuster**. a widely used online image processing tool used in 30+ countries  
+- **Image Adjuster Online** - a widely used online image processing tool used in 30+ countries  
 - **Full stack platforms** built with modern architectures and deployed for real users  
 - **Complete client solutions** designed, developed, and optimized for performance
 
