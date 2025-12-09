@@ -1,3 +1,4 @@
+<h2 style="color:red;">Suhaim Anwar</h2>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=30&pause=1000&color=F70000&width=435&lines=Suhaim+Anwar;MERN+Stack+Developer;Creating+Web+Experiences)](https://git.io/typing-svg)
 
