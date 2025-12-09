@@ -8,7 +8,7 @@
 <br>
 I have built multiple full stack apps and deployed 10+ projects used across many countries.
 
-I have created a number of projects, including :
+I have created a number of projects, including:
 - **Image Adjuster** - an online image editing tool used in 30+ countries
 - **Multiple full stack apps** deployed for real users
 - **Client websites** delivered end to end with modern stacks
