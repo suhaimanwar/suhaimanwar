@@ -1,3 +1,6 @@
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=30&pause=1000&color=F70000&width=435&lines=Suhaim+Anwar;MERN+Stack+Developer;Creating+Web+Experiences)](https://git.io/typing-svg)
+
 Hi, I'm **Suhaim Anwar**. A MERN Stack Developer.  
 I have built multiple full stack apps and deployed 10+ projects used across many countries.  
 I created **Image Adjuster**, an online tool used in 30+ countries.  
